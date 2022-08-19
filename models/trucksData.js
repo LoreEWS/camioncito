@@ -13,4 +13,4 @@ const truckSchema = mongoose.Schema({
 
 const TruckData = mongoose.model('TruckData', truckSchema);
 
-export default PostMessage
+export default TruckData;
